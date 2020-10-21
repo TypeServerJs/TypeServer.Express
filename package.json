@@ -1,7 +1,13 @@
 {
     "name": "@type-server/express",
     "version": "0.0.1",
+    "main": "./src/index.ts",
+    "scripts": {
+        "build": "tsc",
+        "start": ""
+    },
     "dependencies": {
-        "@typeserver/typeserver": "^0.0.1"
+        "tslib": "^2.0.3",
+        "@type-server/typeserver": "^0.0.1"
     }
 }
