@@ -1,0 +1,7 @@
+{
+    "name": "@type-server/express",
+    "version": "0.0.1",
+    "dependencies": {
+        "@typeserver/typeserver": "^0.0.1"
+    }
+}
